@@ -1,4 +1,4 @@
-# Lập trình hướng đối tượng - OOP
+# Object Oriented Programming - OOP
 
 
 # Group 17 - On Class
