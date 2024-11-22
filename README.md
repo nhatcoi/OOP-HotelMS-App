@@ -64,7 +64,7 @@ Content:
 - When working with data in memory, data needs to be stored in the form of optional Collections such as ArrayList, LinkedList, Map, ....
 - Students can add functions to the program for richer applications by learning about hotel management problems (optional).
 
-# Final Project: Hotel Management System
+### Vietnamese
 Nội dung:
   Yêu cầu:
 - Giao diện cửa sổ JavaFX.
